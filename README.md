@@ -9,7 +9,9 @@ For this purpose, each of us have three rules that we have to follow. Failure to
 # Rules
 
 ## tlu22's rules
- - no entertainments
+1. 3 hours of math a day. No irralevent web browsing and phone use during math time. 
+2. no phone in bed, no gaming/video watching/web browsing before 2pm or after 11pm. 
+3. same as Soobin's second rule.
 
 ## Deepak's Rules
 1. No usage of mobile phone during focus times unless it is an emergency. Focus times include *work time*, *study time*, or any other dedicated times.
