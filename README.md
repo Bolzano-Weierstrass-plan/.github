@@ -14,12 +14,12 @@ If the penalty was not enforced for any reason - e.g. being too busy - then walk
 2. [For Deepak and Soobin] At the same time as Penalty #1, for each violation, $10 must be spent to take tlu22 out for dinner.
 In return, tlu22 must give a referral to Deepak and Soobin, if tlu22 becomes a top executive in any company in the future.
 
-## tlu22's rules
+### tlu22's rules
 1. 3 hours of math a day. No irralevent web browsing and phone use during math time.
 2. no phone in bed, no gaming/video watching/web browsing before 2pm or after 11pm.
 3. same as Soobin's second rule.
 
-## Deepak's Rules
+### Deepak's Rules
 1. No usage of mobile phone during focus times unless it is an emergency. Focus times include *work time*, *study time*, or any other dedicated times.
 2. Gym for atleast three hours every week, and calorie intake of 2500 - 3000 calories per day based on the heaviest meal calorie count of the day.
 3. Same as Soobin's third rule
