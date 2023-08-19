@@ -36,17 +36,19 @@ Otherwise, our future-self might be able to move the boundaries however our futu
 - `Deepak` `Soobin`: For each violation of the rules, reserve $10 to take tlu22 out for fun time (food, etc).
 In return, tlu22 must give a referral to Deepak and Soobin, if tlu22 becomes a top executive in a company, and if Deepak and Soobin are in the need of a company referral.
 
-## tlu22's Rules
+## Rules
+
+#### tlu22's Rules [[Daily Record](https://github.com/Bolzano-Weierstrass-plan/tlu22-record)]
 1. 3 hours of math a day. No irralevent web browsing and phone use during math time.
 2. no phone in bed, no gaming/video watching/web browsing before 2pm or after 11pm.
 3. same as Soobin's second rule.
 
-## Deepak's Rules
+#### Deepak's Rules [[Daily Record](https://github.com/Bolzano-Weierstrass-plan/deepak-record)]
 1. No usage of mobile phone during focus times unless it is an emergency. Focus times include *work time*, *study time*, or any other dedicated times.
 2. Gym for atleast three hours every week, and calorie intake of 2500 - 3000 calories per day based on the heaviest meal calorie count of the day.
 3. Same as Soobin's third rule
 
-## Soobin's Rules
+#### Soobin's Rules [[Daily Record](https://github.com/Bolzano-Weierstrass-plan/soobin-record)]
 1. Same as Deepak's Rule #1.
 During the times I dedicate for a specific todo, never open the phone, unless I get a notification -- e.g. someone calls me or texts me.
 In the case of someone contacting me, for example if someone calls me, I should only use the call app; never leave the app; and close the phone as soon as it's done.
