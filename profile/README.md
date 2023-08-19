@@ -3,24 +3,29 @@
 
 > The name Bolzano-Weierstrass plan is inspired by the Bolzano-Weierstrass theorem, which states that things getting closer to each other eventually converges.
 
-We are three college students trying to change our lives one rule at a time.
+We are three college students trying to change our own lives.
 A lot of things we do in our daily life, we believe, are not exactly what we'd like ourselves to do.
 Instead, the vast majority of our habits have been formed either unconsciously or in a way that we do not like at all.
 We wanted to change that.
 In a world full of distractions, we wanted to lead our own lives.
 
-We've had many attempts like this before, and after countless failures, we realized it's better to make easier goals rather than perfect-sounding goals.
-Thus, our main philosophy here is to just remember three things to live by every day -- hence the ***rules*** listed below.
+We've had many attempts like this before, and after countless failures, we realized it's crucial to make achievable goals and also have some kind of mechanism where we keep each other accountable.
+Thus, our main philosophy here is for each of us to make three rules for ourselves -- hence the ***rules*** listed below.
 A wise man once said, "you need 27 days to form a habit."
-Here's our plan -- we try our best to make these our habits.
-Do not make them too hard. Otherwise, we might fail yet again.
+Here's our plan.
+We try our best to make these our habits.
+Do not make them too hard.
+Otherwise, we might fail yet again.
 Make the right thing the easy thing to do.
-Also, form a group and create self-enforced consequences for failing to follow the rules.
+Form a group and create self-enforced consequences for failing to follow the rules.
 Hold each other accountable.
 
 ## Overview
-- Everyday, each of us must create a status report and commit it to each of our `<name>-record` repository.
 - Each of us gets to choose our own rules.
+Make them as specific, objective, and measurable as possible.
+We need to know exactly when we're following our own rules, and when we are not.
+Otherwise, our future-self might be able to move the boundaries however our future-self wants, which is not what we want here.
+- Everyday, each of us must create a status report and commit it to each of our `<name>-record` repository.
 - Try to make the penalties small enough that we never feel like giving up and big enough to feel the consequences whenever we fail to follow our own rules.
 - Any of the rules can be modified, if and only if all of the members explicitly give consent.
 
@@ -43,12 +48,14 @@ In return, tlu22 must give a referral to Deepak and Soobin, if tlu22 becomes a t
 
 ## Soobin's Rules
 1. Same as Deepak's Rule #1.
-In addition, whenever I start a focus time, choose how much time I want and set a timer on my phone.
-Never open the phone, unless I get a notification -- e.g. someone calls me or texts me.
-In the case of someone contacting me, for example if someone calls me, I should only use the phone for the contact, and never leave the app.
+During the times I dedicate for a specific todo, never open the phone, unless I get a notification -- e.g. someone calls me or texts me.
+In the case of someone contacting me, for example if someone calls me, I should only use the call app; never leave the app; and close the phone as soon as it's done.
 2. Every day, meditate at least 10 minutes.
-3. Every day, create a schedule for the day with specific times and brief description of what to do for each time.
-However, given that a lot of unknown factors affect our scheduling, we define success flexibly.
-If I did each of the schedule items at least for 10 minutes, then it's counted as a success.
-It's counted as a failiure, only if one or more items of the schedule have not been done at all.
-The order of the schedule can be changed, as long as all of the items in the schedule have been done.
+It must be in the sitting down position.
+Never lay down during the meditation because I tend to fall asleep if I do that.
+4. This rule was first created by Deepak, and I just added some small bits to it.
+The problem of scheduling our day is that there are too many unexpected factors that affect our shcedule all the time.
+Thus, we're doing what we call dynamic scheduling.
+As opposed to static scheduling in which we have to follow every schedule minute by minute, dynamic shceduling takes all of those unexpected variables into account.
+With dynamic scheduling, we're allowed to change the order in which we do those and at which time we do it, even how much time we do it.
+As long as we do it for at least some amount of time, which in my case is defined as 10 minutes, then it's counted as a success.
