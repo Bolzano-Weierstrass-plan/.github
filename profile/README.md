@@ -4,20 +4,21 @@
 > The name Bolzano-Weierstrass plan is inspired by the Bolzano-Weierstrass theorem, which states that things getting closer to each other eventually converges.
 
 A lot of things we do in our own life everyday, we do not because we want to, but because we have these habits that have been formed witout us knowing at all.
-Most often the case, a lot of these are not the way we want our lives to be, and yet, we spend hundreds or thousands of hours doing those things we're not even consciously aware of.
+Most often the case, a lot of these are not the way we want our lives to be, and yet, we spend hundreds or thousands of hours doing these things we're not even consciously aware of.
 We wanted to change that.
 In a world full of distractions, we wanted to lead our own life.
 
 We've had many attempts like this before, and after countless failures, we realized it's crucial to make achievable goals and also have some kind of mechanism where we keep each other accountable.
 Thus, our main philosophy here is for each of us to make three rules for ourselves -- hence the ***Rules*** listed below.
 A wise man once said, "you need 27 days to form a habit."
-Here's our plan.
-We try our best to make these our habits.
+So, here's our plan.
+We try our best to make these rules our habits.
 Do not make them too hard.
 Otherwise, we might fail yet again.
 Make the right thing the easy thing to do.
 Form a group and create self-enforced consequences for failing to follow the rules.
 Hold each other accountable.
+Help each other live the life they want to live.
 
 ## Overview
 - Each of us gets to choose our own rules.
