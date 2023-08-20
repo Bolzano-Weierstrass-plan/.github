@@ -44,7 +44,7 @@ In return, tlu22 must give a referral to Deepak and Soobin, if tlu22 becomes a t
 3. same as Soobin's second rule.
 
 #### Deepak's Rules [[Daily Record](https://github.com/Bolzano-Weierstrass-plan/deepak-record)]
-1. No usage of mobile phone during focus times unless it is an emergency. Focus times include *work time*, *study time*, or any other dedicated times.
+1. No usage of mobile phone during focus times unless it is an emergency. Focus times include **work time**, **study time**, or any other dedicated times.
 2. Gym for atleast three hours every week, and calorie intake of 2500 - 3000 calories per day based on the heaviest meal calorie count of the day.
 3. Same as Soobin's third rule
 
@@ -56,7 +56,7 @@ In the case of someone contacting me, for example if someone calls me, I should 
 It must be in the sitting down position.
 Never lay down during the meditation because I tend to fall asleep if I do that.
 4. This rule was first created by Deepak, and I just added some small bits to it.
-The problem of scheduling our day is that there are too many unexpected factors that affect our shcedule all the time.
+The problem of scheduling our day is that there are too many unexpected factors that affect our schedule all the time.
 Thus, we're doing what we call dynamic scheduling.
 As opposed to static scheduling in which we have to follow every schedule minute by minute, dynamic shceduling takes all of those unexpected variables into account.
 With dynamic scheduling, we're allowed to change the order in which we do those and at which time we do it, even how much time we do it.
