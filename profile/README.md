@@ -55,8 +55,8 @@ During the times I dedicate for a specific TODO, such as coding or exercising bu
 In the case of someone contacting me, I should only use, for example, the Call app.
 Never leave the app of origin.
 Close the phone as soon as it's done.
-3. Every day, meditate at least 10 minutes.
-It must be in the sitting down position.
+3. Every day, sit down without any kind of distractions, including but not limited to phones and laptops, for at least 10 minutes.
+It must be in the sitting-down position.
 Never lay down during the meditation because I tend to fall asleep if I do that.
 4. This rule was first created by Deepak, and I just added some small bits to it.
 The problem of scheduling our day is that there are too many unexpected factors that affect our schedule all the time.
