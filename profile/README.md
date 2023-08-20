@@ -3,11 +3,10 @@
 
 > The name Bolzano-Weierstrass plan is inspired by the Bolzano-Weierstrass theorem, which states that things getting closer to each other eventually converges.
 
-We are three college students trying to change our own lives.
-A lot of things we do in our daily life, we believe, are not exactly what we'd like ourselves to do.
-Instead, the vast majority of our habits have been formed either unconsciously or in a way that we do not like at all.
+A lot of things we do in our own life everyday, we do not because we want to, but because we have these habits that have been formed witout us knowing at all.
+Most often the case, a lot of these habits we have are not exaxtly the way we want to spend our life everyday, and yet, we spend hundreds or thousands of hours doing those things we're not even consciously aware of.
 We wanted to change that.
-In a world full of distractions, we wanted to lead our own lives.
+In a world full of distractions trying to shape our lives to their liking for their own benefits, we wanted to lead our own lives.
 
 We've had many attempts like this before, and after countless failures, we realized it's crucial to make achievable goals and also have some kind of mechanism where we keep each other accountable.
 Thus, our main philosophy here is for each of us to make three rules for ourselves -- hence the ***Rules*** listed below.
