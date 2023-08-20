@@ -47,7 +47,7 @@ In return, tlu22 must give a referral to Deepak and Soobin, if tlu22 becomes a t
 #### Deepak's Rules [[Daily Record](https://github.com/Bolzano-Weierstrass-plan/deepak-record)]
 1. No usage of mobile phone during focus times unless it is an emergency. Focus times include **work time**, **study time**, or any other dedicated times.
 2. Gym for atleast three hours every week, and calorie intake of 2500 - 3000 calories per day based on the heaviest meal calorie count of the day.
-3. Same as Soobin's third rule
+3. Same as Soobin's third rule.
 
 #### Soobin's Rules [[Daily Record](https://github.com/Bolzano-Weierstrass-plan/soobin-record)]
 1. Same as Deepak's Rule #1.
