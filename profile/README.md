@@ -10,6 +10,7 @@ In a world full of distractions, we wanted to lead our own life.
 
 We've had many attempts like this before, and after countless failures, we realized it's crucial to make achievable goals and also have some kind of mechanism where we keep each other accountable.
 Thus, our main philosophy here is for each of us to make three rules for ourselves -- hence the ***Rules*** listed below.
+
 A wise man once said, "you need 27 days to form a habit."
 So, here's our plan.
 We try our best to make these rules our habits.
