@@ -3,7 +3,7 @@
 
 > The name Bolzano-Weierstrass plan is inspired by the Bolzano-Weierstrass theorem, which states that things getting closer to each other eventually converges.
 
-A lot of things we do in our own life everyday, we do not because we want to, but because we have these habits that have been formed witout us knowing at all.
+A lot of things we do in our own life everyday, we do them not because we want to, but because we have these habits that have been formed witout us knowing at all.
 Most often the case, a lot of these are not the way we want our lives to be, and yet, we spend hundreds or thousands of hours doing these things we're not even consciously aware of.
 We wanted to change that.
 In a world full of distractions, we wanted to ***lead*** our own life.
