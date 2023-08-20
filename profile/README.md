@@ -21,7 +21,11 @@ Form a group, ***and call it the Bolzano-Weierstrass plan***, and create self-en
 Hold each other accountable.
 Help each other live the life they want to live.
 
-## Overview
+<br>
+<br>
+<br>
+
+***Overview***<br>
 - Each of us gets to choose our own rules.
 Make them as specific, objective, and measurable as possible.
 We need to know exactly when we're following our own rules, and when we are not.
@@ -30,12 +34,18 @@ Otherwise, our future-self might be able to move the boundaries however our futu
 - Try to make the penalties small enough that we never feel like giving up and big enough that we strongly feel the consequences whenever we fail to follow our own rules.
 - Any of the rules can be modified, if and only if all of the members explicitly give consent.
 
-## Penalities
+<br>
+
+***Penalities***<br>
 - `Deepak` `Soobin`: For each violation of the rules, walk around the entire Augie campus on the day of the violation.
 - `tlu22`: For each violation of the rules, run around the entire Augie campus on the day of the violation.
 - `@all`: If the penalty was not enforced for any reason - e.g. being too busy - then +1 each day.
 - `Deepak` `Soobin`: For each violation of the rules, reserve $10 to take tlu22 out for fun time (food, etc).
 In return, tlu22 must give a referral to Deepak and Soobin, if tlu22 becomes a top executive in a company, and if Deepak and Soobin are in the need of a company referral.
+
+<br>
+<br>
+<br>
 
 ## Rules
 
