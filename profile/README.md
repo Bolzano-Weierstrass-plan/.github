@@ -50,9 +50,11 @@ In return, tlu22 must give a referral to Deepak and Soobin, if tlu22 becomes a t
 
 #### Soobin's Rules [[Daily Record](https://github.com/Bolzano-Weierstrass-plan/soobin-record)]
 1. Same as Deepak's Rule #1.
-During the times I dedicate for a specific todo, never open the phone, unless I get a notification -- e.g. someone calls me or texts me.
-In the case of someone contacting me, for example if someone calls me, I should only use the call app; never leave the app; and close the phone as soon as it's done.
-2. Every day, meditate at least 10 minutes.
+During the times I dedicate for a specific TODO, such as coding or exercising but excluding trival activities like eating or sleeping, the rule is to never open the phone unless I get a notification.
+In the case of someone contacting me, I should only use, for example, the Call app.
+Never leave the app of the origin.
+Close the phone as soon as it's done.
+3. Every day, meditate at least 10 minutes.
 It must be in the sitting down position.
 Never lay down during the meditation because I tend to fall asleep if I do that.
 4. This rule was first created by Deepak, and I just added some small bits to it.
