@@ -17,7 +17,7 @@ We try our best to make these rules our habits.
 Do not make them too hard.
 Otherwise, we might fail yet again.
 Make the right thing the easy thing to do.
-Form a group, ***and we call it the Bolzano-Weierstrass plan***, and create self-enforced consequences for failing to follow the rules.
+Form a group, ***and call it the Bolzano-Weierstrass plan***, and create self-enforced consequences for failing to follow the rules.
 Hold each other accountable.
 Help each other live the life they want to live.
 
