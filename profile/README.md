@@ -27,7 +27,7 @@ Make them as specific, objective, and measurable as possible.
 We need to know exactly when we're following our own rules, and when we are not.
 Otherwise, our future-self might be able to move the boundaries however our future-self wants, which is not what we want here.
 - Everyday, each of us must create a status report and commit it to each of our `<name>-record` repository.
-- Try to make the penalties small enough that we never feel like giving up and big enough to feel the consequences whenever we fail to follow our own rules.
+- Try to make the penalties small enough that we never feel like giving up and big enough that we strongly feel the consequences whenever we fail to follow our own rules.
 - Any of the rules can be modified, if and only if all of the members explicitly give consent.
 
 ## Penalities
