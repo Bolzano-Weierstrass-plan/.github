@@ -37,8 +37,8 @@ Otherwise, our future-self might be able to move the boundaries however our futu
 <br>
 
 ***Penalities***<br>
-- `Deepak` `Soobin`: For each violation of the rules, walk around the entire Augie campus on the day of the violation.
-- `tlu22`: For each violation of the rules, run around the entire Augie campus on the day of the violation.
+- `Deepak` `Soobin`: For each violation of the rules, walk around the entire Augie campus on the day after the violation.
+- `tlu22`: For each violation of the rules, run around the entire Augie campus on the day after the violation.
 - `@all`: If the penalty was not enforced for any reason - e.g. being too busy - then +1 each day.
 - `Deepak` `Soobin`: For each violation of the rules, reserve $10 to take tlu22 out for fun time (food, etc).
 In return, tlu22 must give a referral to Deepak and Soobin, if tlu22 becomes a top executive in a company, and if Deepak and Soobin are in the need of a company referral.
