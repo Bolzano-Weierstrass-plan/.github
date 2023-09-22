@@ -49,8 +49,8 @@ In return, tlu22 must give a referral to Deepak and Soobin, if tlu22 becomes a t
 ## Rules
 
 #### tlu22's Rules [[Daily Record](https://github.com/Bolzano-Weierstrass-plan/tlu22-record)]
-1. 3 hours of math a day. No irralevent web browsing and phone use during math time.
-2. no phone in bed, no gaming/video watching/web browsing before 2pm or after 11pm.
+1. Study time: 9am to 4pm everyday, 6pm to 9pm on TR, 6pm to 7:30 pm on MW. No phone use after 11pm or in studytime unless necessary(submit homework, write email, two-factor authorization)
+2. For each section of linear algebra, complete in $[\frac{#Exercise}{15}]$ days. 
 3. same as Soobin's second rule.
 
 #### Deepak's Rules [[Daily Record](https://github.com/Bolzano-Weierstrass-plan/deepak-record)]
