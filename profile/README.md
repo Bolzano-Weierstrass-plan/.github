@@ -48,17 +48,17 @@ In return, tlu22 must give a referral to Deepak and Soobin, if tlu22 becomes a t
 
 ## Rules
 
-#### tlu22's Rules [[Daily Record](https://github.com/Bolzano-Weierstrass-plan/tlu22-record)]
+**tlu22's Rules [[Daily Record](https://github.com/Bolzano-Weierstrass-plan/tlu22-record)]**
 1. Study time: 9am to 4pm everyday, 6pm to 9pm on TR, 6pm to 7:30 pm on MW. No phone use after 11pm or in studytime unless necessary(submit homework, write email, two-factor authorization)
 2. For each section of linear algebra, complete in $[\frac{num Exercise}{15}]$ days. 
 3. same as Soobin's second rule.
 
-#### Deepak's Rules [[Daily Record](https://github.com/Bolzano-Weierstrass-plan/deepak-record)]
+**Deepak's Rules [[Daily Record](https://github.com/Bolzano-Weierstrass-plan/deepak-record)]**
 1. No usage of mobile phone during focus times unless it is an emergency. Focus times include **work time**, **study time**, or any other dedicated times.
 2. Gym for at least three hours every week, and calorie intake of 2500 - 3000 calories per day based on the heaviest meal calorie count of the day.
 3. Same as Soobin's third rule.
 
-#### Soobin's Rules [[Daily Record](https://github.com/Bolzano-Weierstrass-plan/soobin-record)]
+**Soobin's Rules [[Daily Record](https://github.com/Bolzano-Weierstrass-plan/soobin-record)]**
 1. Same as Deepak's Rule #1.
 During the times I dedicate for a specific TODO, such as coding or exercising but excluding trival activities like eating or sleeping, the rule is to never open the phone unless I get a notification.
 In the case of someone contacting me, I should only use, for example, the Call app.
