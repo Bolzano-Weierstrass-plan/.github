@@ -76,6 +76,6 @@ With dynamic scheduling, we're allowed to change the order in which we do those 
 As long as we do it for at least some amount of time, which in my case is defined as 10 minutes, then it's counted as a success.
 
 **Julian's Rules [[Daily record](https://github.com/Bolzano-Weierstrass-plan/Julian-Record)]**
-1. Reach an average of 7 hours study in the weekday (this is outside of school hw and studying)
+1. Reach an average of 7 hours study in the weekday (this is outside of school hw and studying).
 
 
