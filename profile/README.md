@@ -41,7 +41,7 @@ Otherwise, our future-self might be able to move the boundaries however our futu
 - `tlu22`: For each violation of the rules, run around the entire Augie campus by the day after the violation.
 - `Deepak` `Soobin`: For each violation of the rules, reserve $10 to take tlu22 out for fun time (food, etc).
 In return, tlu22 must give a referral to Deepak and Soobin, if tlu22 becomes a top executive in a company, and if Deepak and Soobin are in the need of a company referral.
-- `Julian`: failure to comply with the one hour rule results with punisment of completing one canvas assignment, if no assignment available 10 minute reading is required.
+- `Julian`: Failure to comply with the one hour rule results with punisment of completing one canvas assignment, if no assignment available 10 minute reading is required.
 
 <br>
 <br>
@@ -76,6 +76,6 @@ With dynamic scheduling, we're allowed to change the order in which we do those 
 As long as we do it for at least some amount of time, which in my case is defined as 10 minutes, then it's counted as a success.
 
 **Julian's Rules [[Daily record](https://github.com/Bolzano-Weierstrass-plan/Julian-Record)]**
-1. reach an average of 7 hours study in the weekday (this is outside of school hw and studying)
+1. Reach an average of 7 hours study in the weekday (this is outside of school hw and studying)
 
 
