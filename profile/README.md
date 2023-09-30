@@ -75,7 +75,7 @@ As opposed to static scheduling in which we have to follow every schedule minute
 With dynamic scheduling, we're allowed to change the order in which we do those and at which time we do it, even how much time we do it.
 As long as we do it for at least some amount of time, which in my case is defined as 10 minutes, then it's counted as a success.
 
-**Julian's Rules [[Daily record]()**
+**Julian's Rules [[Daily record](https://github.com/Bolzano-Weierstrass-plan/Julian-Record)]**
 1. reach an average of 7 hours study in the weekday (this is outside of school hw and studying)
 
 
