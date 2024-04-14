@@ -54,7 +54,12 @@ Otherwise, our future-self might be able to move the boundaries however our futu
 **Deepak's Rules [[Daily Record](https://github.com/Bolzano-Weierstrass-plan/deepak-record)]**
 1. No usage of mobile phone during focus times unless it is an emergency. Focus times include **work time**, **study time**, or any other dedicated times.
 2. Gym for at least three hours every week, and calorie intake of 2500 - 3000 calories per day based on the heaviest meal calorie count of the day.
-3. Same as Soobin's third rule.
+3. The problem of scheduling our day is that there are too many unexpected factors that affect our schedule all the time.
+Thus, we're doing what we call dynamic scheduling.
+As opposed to static scheduling in which we have to follow every schedule minute by minute, dynamic shceduling takes all of those unexpected variables into account.
+With dynamic scheduling, we're allowed to change the order in which we do those and at which time we do it, even how much time we do it.
+As long as we do it for at least some amount of time, which in my case is defined as 10 minutes, then it's counted as a success.
+For example, use the mind palace technique to memorize (internalize) at least one thing a day.
 
 **Soobin's Rules [[Daily Record](https://github.com/Bolzano-Weierstrass-plan/soobin-record)]**
 1. Same as Deepak's Rule #1.
@@ -62,16 +67,10 @@ During the times I dedicate for a specific TODO, such as coding or exercising bu
 In the case of someone contacting me, I should only use, for example, the Call app.
 Never leave the app of origin.
 Close the phone as soon as it's done.
-3. Every day, sit down without any kind of distractions, including but not limited to phones and laptops, for at least 10 minutes.
+2. Every day, sit down without any kind of distractions, including but not limited to phones and laptops, for at least 10 minutes.
 It must be in the sitting-down position.
 Never lay down during the meditation because I tend to fall asleep if I do that.
-4. This rule was first created by Deepak, and I just added some small bits to it.
-The problem of scheduling our day is that there are too many unexpected factors that affect our schedule all the time.
-Thus, we're doing what we call dynamic scheduling.
-As opposed to static scheduling in which we have to follow every schedule minute by minute, dynamic shceduling takes all of those unexpected variables into account.
-With dynamic scheduling, we're allowed to change the order in which we do those and at which time we do it, even how much time we do it.
-As long as we do it for at least some amount of time, which in my case is defined as 10 minutes, then it's counted as a success.
-For example, use the mind palace technique to memorize (internalize) at least one thing a day.
+3. Daily refresh or update the mind palace to remember tasks (daily todo list or long-term tasks).
 
 **Julian's Rules [[Daily record](https://github.com/Bolzano-Weierstrass-plan/Julian-Record)]**
 1. Reach an average of 7 hours study in the weekday (this is outside of school hw and studying).
