@@ -30,7 +30,7 @@ Help each other live the life they want to live.
 Make them as specific, objective, and measurable as possible.
 We need to know exactly when we're following our own rules, and when we are not.
 Otherwise, our future-self might be able to move the boundaries however our future-self wants, which is not what we want here.
-- Everyday, each of us must create a status report and commit it to each of our `<name>-record` repository.
+- Everyday, each of us should write a status report and commit it to each of our `<name>-record` repository. This should be as simple as possible so that the process feels as easy as it can be.
 - Try to make the penalties small enough that we never feel like giving up and big enough that we strongly feel the consequences whenever we fail to follow our own rules.
 
 <br>
