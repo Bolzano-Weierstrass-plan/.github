@@ -36,7 +36,7 @@ Otherwise, our future-self might be able to move the boundaries however our futu
 <br>
 
 ***Penalities***<br>
-- `Deepak` `Soobin`: For each violation of the rules, walk around the entire Augie campus by the day after the violation, or go to the gym, or swim.
+- `Deepak` `Soobin`: For each violation of the rules, {walk around the entire Augie campus by the day after the violation}, {go to the gym}, {swim}, or {do 50 pushups, 50 squats, 50 seconds of wall sit, and 50 seconds of plank}.
 - `tlu22`: For each violation of the rules, run around the entire Augie campus by the day after the violation.
 - `Julian`: Failure to comply with the one hour rule results with punisment of completing one canvas assignment, if no assignment available 10 minute reading is required.
 
