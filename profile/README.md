@@ -62,7 +62,7 @@ As long as we do it for at least some amount of time, which in my case is define
 For example, use the mind palace technique to memorize (internalize) at least one thing a day.
 
 **Soobin's Rules [[Daily Record](https://github.com/Bolzano-Weierstrass-plan/soobin-record)]**
-1. Spend less than 3 hours on YouTube, Reddit, and Chrome. Android Phones come with the `Digital Wellbeing (Google)` app by default. According to this, I've been spending at least six hours everyday on these three apps. Those are cool, and not super bad, but it's not exactly how I want my life to be spent.
+1. Spend less than 3 hours on YouTube, Reddit, and Chrome on my phone. Android Phones come with the `Digital Wellbeing (Google)` app by default. According to this, I've been spending at least six hours everyday on these three apps. Those are cool, and not super bad, but it's not exactly how I want my life to be spent.
 2. Every day, sit down without any kind of distractions, including but not limited to phones and laptops, for at least 10 minutes.
 It must be in the sitting-down position.
 Never lay down during the meditation because I tend to fall asleep if I do that.
