@@ -30,7 +30,7 @@ Help each other live the life they want to live.
 Make them as specific, objective, and measurable as possible.
 We need to know exactly when we're following our own rules, and when we are not.
 Otherwise, our future-self might be able to move the boundaries however our future-self wants, which is not what we want here.
-- Everyday, each of us should write a status report and commit it to each of our `<name>-record` repository. This should be as simple as possible so that the process feels as easy as it can be.
+- Everyday or every month (or however you want), each of us should write a status report and commit it to each of our `<name>-record` repository. This should be as simple as possible so that the process feels as easy as it can be.
 - Try to make the penalties small enough that we never feel like giving up and big enough that we strongly feel the consequences whenever we fail to follow our own rules.
 
 <br>
@@ -63,10 +63,10 @@ For example, use the mind palace technique to memorize (internalize) at least on
 
 **Soobin's Rules [[Daily Record](https://github.com/Bolzano-Weierstrass-plan/soobin-record)]**
 1. Spend less than 3 hours on YouTube, Reddit, and Chrome (unless watching OSCP videos) on my phone. Android Phones come with the `Digital Wellbeing (Google)` app by default. According to this, I've been spending at least six hours everyday on these three apps. Those are cool, and not super bad, but it's not exactly how I want my life to be spent.
-3. Every day, sit down without any kind of distractions, including but not limited to phones and laptops, for at least 10 minutes.
+3. Sit down without any kind of distractions, including but not limited to phones and laptops, for at least 10 minutes a day.
 It must be in the sitting-down position.
 Never lay down during the meditation because I tend to fall asleep if I do that.
-4. Daily refresh or update the mind palace to remember tasks (daily todo list or long-term tasks).
+4. Daily refresh or update the mind palace to remember tasks (daily todo list or long-term tasks), for at least 10 minutes a day.
 
 **Julian's Rules [[Daily record](https://github.com/Bolzano-Weierstrass-plan/Julian-Record)]**
 1. Reach an average of 7 hours study in the weekday (this is outside of school hw and studying).
