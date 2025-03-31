@@ -63,10 +63,10 @@ For example, use the mind palace technique to memorize (internalize) at least on
 
 **Soobin's Rules [[Daily Record](https://github.com/Bolzano-Weierstrass-plan/soobin-record)]**
 1. Spend less than 3 hours on YouTube, Reddit, and Chrome (unless watching something with intent and without being a mindless habit) on my phone. Android Phones come with the `Digital Wellbeing (Google)` app by default. According to this, I've been spending at least six hours everyday on these three apps. Those are cool, and not super bad, but it's not exactly how I want my life to be spent.
-3. Sit down without any kind of distractions, including but not limited to phones and laptops, for at least 10 minutes a day.
+2. Sit down without any kind of distractions, including but not limited to phones and laptops, for at least 10 minutes a day.
 It must be in the sitting-down position.
-Never lay down during the meditation because I tend to fall asleep if I do that.
-4. Daily refresh or update the mind palace to remember tasks (daily todo list or long-term tasks), for at least 10 minutes a day.
+Never lay down during the meditation because I tend to fall asleep if I do that. Also, update the mind palace to remember tasks (daily todo list or long-term tasks), for at least 10 minutes a day.
+3. Practice eye contact (it's rude not to...) for at least two minutes a day.
 
 **Julian's Rules [[Daily record](https://github.com/Bolzano-Weierstrass-plan/Julian-Record)]**
 1. Reach an average of 7 hours study in the weekday (this is outside of school hw and studying).
