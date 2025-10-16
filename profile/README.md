@@ -51,6 +51,8 @@ Otherwise, our future-self might be able to move the boundaries however our futu
 2. For each section of linear algebra, complete in $[\frac{num Exercise}{15}]$ days. 
 3. same as Soobin's second rule.
 
+<br>
+
 **Deepak's Rules [[Daily Record](https://github.com/Bolzano-Weierstrass-plan/deepak-record)]**
 1. No usage of mobile phone during focus times unless it is an emergency. Focus times include **work time**, **study time**, or any other dedicated times.
 2. Gym for at least three hours every week, and calorie intake of 2500 - 3000 calories per day based on the heaviest meal calorie count of the day.
@@ -60,6 +62,8 @@ As opposed to static scheduling in which we have to follow every schedule minute
 With dynamic scheduling, we're allowed to change the order in which we do those and at which time we do it, even how much time we do it.
 As long as we do it for at least some amount of time, which in my case is defined as 10 minutes, then it's counted as a success.
 For example, use the mind palace technique to memorize (internalize) at least one thing a day.
+
+<br>
 
 **Soobin's Rules [[Daily Record](https://github.com/Bolzano-Weierstrass-plan/soobin-record)]**
 1. Spend less than ten minutes per day on doomscrolling.
@@ -71,6 +75,8 @@ Helpful excerpt from https://jamesclear.com/ivy-lee which I find inspiring:
 > 3. When you arrive tomorrow, concentrate only on the first task. Work until the first task is finished before moving on to the second task.
 > 4. Approach the rest of your list in the same fashion. At the end of the day, move any unfinished items to a new list of six tasks for the following day.
 > 5. Repeat this process every working day.<br>
+
+<br>
 
 **Julian's Rules [[Daily record](https://github.com/Bolzano-Weierstrass-plan/Julian-Record)]**
 1. Reach an average of 7 hours study in the weekday (this is outside of school hw and studying).
