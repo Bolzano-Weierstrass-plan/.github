@@ -63,7 +63,7 @@ For example, use the mind palace technique to memorize (internalize) at least on
 
 **Soobin's Rules [[Daily Record](https://github.com/Bolzano-Weierstrass-plan/soobin-record)]**
 1. Spend less than ten minutes per day on doomscrolling.
-2. Sit down without any kind of distractions, including but not limited to phones and laptops, for at least 10 minutes a day. In this, either (a) update the mind palace to remember tasks (daily todo list or long-term tasks); (b) replay my day to re-visit what and why I did the things I did; or (c) any combination of above.
+2. Sit down without any kind of distractions, including but not limited to phones and laptops, for at least 10 minutes a day. In this, either (a) work on my mind palace so that my mind can be maintained and further strengthened just like our muscles and a gym; (b) replay my day to re-visit what and why I did the things I did; or (c) any combination of above.
 
 Helpful excerpt from https://jamesclear.com/ivy-lee which I find inspiring:
 > 1. At the end of each work day, write down the six most important things you need to accomplish tomorrow. Do not write down more than six tasks.
